@@ -1,0 +1,5 @@
+C:\RND\SinglePageApplication\SPA.Model\bin\Debug\SPA.Model.dll
+C:\RND\SinglePageApplication\SPA.Model\bin\Debug\SPA.Model.pdb
+C:\RND\SinglePageApplication\SPA.Model\obj\Debug\SPA.Model.csprojResolveAssemblyReference.cache
+C:\RND\SinglePageApplication\SPA.Model\obj\Debug\SPA.Model.dll
+C:\RND\SinglePageApplication\SPA.Model\obj\Debug\SPA.Model.pdb

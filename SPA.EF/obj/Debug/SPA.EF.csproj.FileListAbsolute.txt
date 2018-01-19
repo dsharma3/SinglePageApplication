@@ -1,0 +1,5 @@
+C:\RND\SinglePageApplication\SPA.EF\bin\Debug\SPA.EF.dll
+C:\RND\SinglePageApplication\SPA.EF\bin\Debug\SPA.EF.pdb
+C:\RND\SinglePageApplication\SPA.EF\obj\Debug\SPA.EF.csprojResolveAssemblyReference.cache
+C:\RND\SinglePageApplication\SPA.EF\obj\Debug\SPA.EF.dll
+C:\RND\SinglePageApplication\SPA.EF\obj\Debug\SPA.EF.pdb
